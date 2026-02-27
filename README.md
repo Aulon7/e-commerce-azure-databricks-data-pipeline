@@ -49,3 +49,35 @@ A modern data pipeline for e-commerce analytics using Azure Databricks, Delta La
 - _The run history showing duration, status, and manual/scheduled triggers._
 
     ![Jobs Run](assets/databricks-job1.png)
+
+## Power BI Analytics
+
+### Data model
+
+- _Visual representation of the relationships between `fact_order_items` and supporting dimensions._
+
+    ![Data model](power-bi/dashboards/data-model.png)
+
+### Executive Overview
+
+- _Total sales, orders & customer KPIs_
+
+    ![Executive Overview](power-bi/dashboards/overview-page.png)
+
+### Customer Insights
+
+- _Customers, retention & channels_
+
+    ![Customer Insights](power-bi/dashboards/customer-page.png)
+
+### Product Performance
+
+- _Products, quantity & category trends_
+
+    ![Product Performance](power-bi/dashboards/product-page.png)
+
+### Time-Based Analysis
+
+- _Tax by time & discount analysis_
+
+    ![Time-Based Analysis](power-bi/dashboards/time-based-page.png)
